@@ -2,9 +2,6 @@
 
 The **Dream Gripper** is a hardware project at [Dream Machines](https://dream-machines.eu/).
 
-Built by **Sixtus Klein** at **[Dream Machines](https://dream-machines.eu/)**.  
-[LinkedIn](https://www.linkedin.com/in/sixtus-klein-a41421265/?skipRedirect=true) · [X](https://x.com/sixtusklein)
-
 ## Design Goal
 
 The main scope when designing this gripper was to pick up anything from the size of an o-ring to a coffee mug. At the same time, the gripper was intended to be easily reproducible and reliant only on standard materials.
@@ -45,3 +42,8 @@ Print the backbone in **PLA-CF** and the TPU insert in **TPU95A**. The tolerance
 Then, lay the assembly with the gripping side down on a strip of grip tape. Draw the outlines onto the backside of the tape and cut the shape out.
 
 Leave enough material towards the inside of the gripper so that you can extend the grip tape layer over the TPU by a few cm on each side. Otherwise, the grip tape may loosen over time.
+
+## Credits
+
+Built by **Sixtus Klein** at **[Dream Machines](https://dream-machines.eu/)**.  
+[LinkedIn](https://www.linkedin.com/in/sixtus-klein-a41421265/?skipRedirect=true) · [X](https://x.com/sixtusklein)
