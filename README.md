@@ -93,7 +93,5 @@ TPU wraps the grip tape layer around the edges of the object.
 
 ## Credits
 
-Built by **Sixtus Klein** at **[Dream Machines](https://dream-machines.eu/)**.
-
-[LinkedIn](https://www.linkedin.com/in/sixtus-klein-a41421265/?skipRedirect=true) ·
-[X](https://x.com/sixtusklein)
+Built by **[Sixtus Klein](https://www.linkedin.com/in/sixtus-klein-a41421265/?skipRedirect=true)**
+at **[Dream Machines](https://dream-machines.eu/)**.
